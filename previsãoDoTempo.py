@@ -23,3 +23,5 @@ if resposta.status_code == 200:
     print(f"Condição: {descricao}")
 else:
     print("Erro ao obter os dados. Verifique a cidade, a chave da API ou a conexão.")
+
+![App rodando]()
