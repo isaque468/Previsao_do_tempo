@@ -19,3 +19,5 @@ Este projeto em Python exibe a previsão do tempo de qualquer cidade, utilizando
 1. Instale a biblioteca necessária:
    ```bash
    pip install requests
+
+![App rodando](https://raw.githubusercontent.com/isaque468/Previsao_do_tempo/refs/heads/main/Screenshot_2025-06-25-12-46-36-838_ru.iiec.pydroid3%7E2.jpg)
